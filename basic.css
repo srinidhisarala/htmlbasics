@@ -1,0 +1,12 @@
+.main{
+    height: 30vh;
+    width: 30vh;
+    background-color: blue;
+    border: 2px solid black;
+    transform: rotate3d(30deg)
+    
+}
+.rotate{
+    padding: 50px;
+
+}
